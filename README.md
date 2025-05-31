@@ -91,6 +91,4 @@ In the financial sector, identifying potential loan defaulters is critical to mi
  
 📧 ibrahim.bindawod@gmail.com
 
----
-
-> “Credit scoring isn’t just about prediction — it’s about protecting people, portfolios, and potential.”
+--
